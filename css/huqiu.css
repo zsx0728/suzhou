@@ -1,0 +1,50 @@
+.container-huqiu {
+  width: 90%;
+  margin: 10px auto;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #f0f0f0;
+  background-color: #fff;
+}
+
+.grid-huqiu-item {
+  margin: auto;
+  width: 100%;
+}
+
+.grid-huqiu-item h4 {
+  padding: 20px 0 10px 10px;
+  font-weight: bold;
+}
+
+.grid-huqiu-item hr {
+  border-style: dashed;
+  border-color: #f3f3f3;
+  margin-left: 10px;
+}
+
+.grid-huqiu-item p {
+  width: 100%;
+  padding: 20px 0 0 10px;
+  color: #8f8f8f;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+.container-huqiu img {
+  width: 100%;
+  padding: 10px;
+}
+
+.container-huqiu h3 {
+  border-left: 5px solid #5b983f;
+  color: #8bab6e;
+  padding: 0 10px;
+  margin: 20px;
+}
+
+.huqiu-article p {
+  text-indent: 2em;
+  padding: 0 20px 10px 20px;
+  font-size: 14px;
+}

@@ -1,0 +1,19 @@
+.box3-part2-fengjingjieshao {
+    margin: 20px auto 0 auto;
+  }
+  
+  .box3-part2 .box3-part2-fengjingjieshao .info {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #f0f0f0;
+    background-color: #fff;
+    width: 90%;
+  }
+  
+  .box3-part2 .box3-part2-fengjingjieshao img {
+    width: 100%;
+  }
+  
+  .box3-part2-fengjingjieshao .info h4 {
+    text-align: center;
+  }

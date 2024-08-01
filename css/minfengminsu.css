@@ -1,0 +1,25 @@
+main section {
+  height: calc(100vh - 112px);
+}
+
+.box-minfengminsu {
+    margin: 10px;
+  }
+  
+  .box-minfengminsu div {
+    width: 100%;
+    background-color: #d9f0cc;
+  }
+  
+  .box-minfengminsu img {
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+  }
+  
+  .box-minfengminsu p {
+    font-size: 14px;
+    line-height: 200%;
+    padding: 20px 10px 0 10px;
+  }
+  

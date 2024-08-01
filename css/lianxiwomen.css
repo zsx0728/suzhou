@@ -1,0 +1,80 @@
+main section {
+  height: calc(100vh - 112px );
+}
+
+.form-lianxiwomen-head {
+  margin: 35px auto 20px auto;
+  text-align: center;
+}
+
+.form-lianxiwomen-head h6 {
+  padding-top: 15px;
+  color: #7a7b7b;
+}
+
+.form-lianxiwomen {
+  text-align: center;
+  margin: 0 auto 35px auto;
+}
+
+.form-lianxiwomen input::placeholder,
+.form-lianxiwomen textarea::placeholder {
+  color: #f4f4f4;
+  font-size: 14px;
+  position: relative;
+  right: -10px;
+}
+
+.form-lianxiwomen textarea::placeholder {
+  top: 10px;
+}
+
+#fname,
+#phone {
+  height: 45px;
+  width: 50%;
+  margin-bottom: 15px;
+  border: 1px solid #f4f4f4;
+}
+
+#subject {
+  width: 50%;
+  height: 120px;
+  border: 1px solid #f4f4f4;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.form-lianxiwomen div {
+  width: 50%;
+  height: 35px;
+  margin: 0 auto;
+}
+
+input[type="submit"] {
+  display: inline-block;
+  float: left;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  height: 100%;
+  width: 40%;
+  line-height: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+input[type="reset"] {
+  display: inline-block;
+  float: right;
+  background-color: #b7b8b7;
+  color: white;
+  border: none;
+  cursor: pointer;
+  height: 100%;
+  width: 40%;
+  line-height: 100%;
+}
