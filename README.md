@@ -10,5 +10,8 @@ html+css 第一个项目
 虎丘预览
 ![image](preview/preview_huqiu.jpg)
 
-联系我们
+美食介绍预览
+![image](preview/preview_meishijieshao.jpg)
+
+联系我们预览
 ![image](preview/preview_lianxiwomen.jpg)
